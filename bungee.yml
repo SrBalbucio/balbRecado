@@ -1,0 +1,5 @@
+name: balbRecado
+author: Balbucio
+version: 1.2.1
+main: me.balbucio.recado.Main
+description: Crie recados e mensagens temp.
